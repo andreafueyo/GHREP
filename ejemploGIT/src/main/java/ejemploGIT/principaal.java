@@ -12,6 +12,8 @@ public class principaal {
 		String mivariable;
 		String mientero;
 		
+		System.out.println("Ahora en GitHub");
+		
 		
 		
 		
