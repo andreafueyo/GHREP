@@ -9,6 +9,9 @@ public class principaal {
 		
 		System.out.println("Ya sé usar GIT");
 		
+		String mivariable;
+		String mientero;
+		
 		
 		
 		
