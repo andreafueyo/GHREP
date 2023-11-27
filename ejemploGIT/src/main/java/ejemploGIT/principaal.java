@@ -13,6 +13,8 @@ public class principaal {
 		String mientero;
 		
 		System.out.println("Ahora en GitHub");
+
+		String variable = 'String definido en Github";
 		
 		System.out.println("Hola Jesús qué tal yo bien");
 		
@@ -20,6 +22,8 @@ public class principaal {
 		
 		
 		
+	}
+}
 		
 		
 
